@@ -19,7 +19,7 @@ The function should then return the given IDs as a single `array`.
 
 ```javascript
 getListOfWagons(1, 7, 12, 3, 14, 8, 5);
-// => [1, 7, 12, 3, 14, 8, 3]
+// => [1, 7, 12, 3, 14, 8, 5]
 ```
 
 ## 2. Move the first two elements to the end of the array
